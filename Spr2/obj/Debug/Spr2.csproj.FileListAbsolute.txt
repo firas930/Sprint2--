@@ -43,3 +43,8 @@ D:\Spr2\Spr2\obj\Debug\Spr2.csproj.GenerateResource.cache
 D:\Spr2\Spr2\obj\Debug\Spr2.csproj.CoreCompileInputs.cache
 D:\Spr2\Spr2\obj\Debug\Spr2.exe
 D:\Spr2\Spr2\obj\Debug\Spr2.pdb
+C:\Users\firas\Desktop\Sprint2--\Spr2\obj\Debug\Spr2.csprojAssemblyReference.cache
+C:\Users\firas\Desktop\Sprint2--\Spr2\obj\Debug\App.g.cs
+C:\Users\firas\Desktop\Sprint2--\Spr2\obj\Debug\Spr2_MarkupCompile.cache
+C:\Users\firas\Desktop\Sprint2--\Spr2\obj\Debug\Spr2.exe
+C:\Users\firas\Desktop\Sprint2--\Spr2\obj\Debug\Spr2.pdb
